@@ -1,6 +1,6 @@
 ## todo-server 
 
-Backend API for todo app built with Node & Express. 
+Backend API for [Todo App](https://github.com/criscunas/todo-client) built with Node & Express. 
 
 - git clone this repository 
 - npm install 
